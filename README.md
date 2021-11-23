@@ -7,12 +7,14 @@
   </a>
 <div>
 
-|  Subdomain   |            Challenge            |                                       Problem                                        | Difficulty | Score |                            Solution                             |
-| :----------: | :-----------------------------: | :----------------------------------------------------------------------------------: | :--------: | :---: | :-------------------------------------------------------------: |
-| Introduction | Say "Hello, World!" With Python |       [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)        |    Easy    |   5   | [Solution](/Python/Introduction/say_hello_world_with_python.py) |
-| Introduction |         Python If-Else          |         [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)          |    Easy    |  10   |       [Solution](/Python/Introduction/python_if_else.py)        |
-| Introduction |      Arithmetic Operators       | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) |    Easy    |  10   |    [Solution](/Python/Introduction/arithmetic_operators.py)     |
-| Introduction |        Python: Division         |       [Problem](https://www.hackerrank.com/challenges/python-division/problem)       |    Easy    |  10   |       [Solution](/Python/Introduction/python_division.py)       |
-| Introduction |              Loops              |        [Problem](https://www.hackerrank.com/challenges/python-loops/problem)         |    Easy    |  10   |            [Solution](/Python/Introduction/loops.py)            |
-| Introduction |        Write a function         |      [Problem](https://www.hackerrank.com/challenges/write-a-function/problem)       |   Medium   |  10   |      [Solution](/Python/Introduction/write_a_function.py)       |
-| Introduction |         Print Function          |        [Problem](https://www.hackerrank.com/challenges/python-print/problem)         |    Easy    |  20   |       [Solution](/Python/Introduction/print_function.py)        |
+|    Subdomain     |            Challenge            |                                            Problem                                            | Difficulty | Score |                               Solution                               |
+| :--------------: | :-----------------------------: | :-------------------------------------------------------------------------------------------: | :--------: | :---: | :------------------------------------------------------------------: |
+|   Introduction   | Say "Hello, World!" With Python |            [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)            |    Easy    |   5   |   [Solution](/Python/Introduction/say_hello_world_with_python.py)    |
+|   Introduction   |         Python If-Else          |              [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)              |    Easy    |  10   |          [Solution](/Python/Introduction/python_if_else.py)          |
+|   Introduction   |      Arithmetic Operators       |     [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)      |    Easy    |  10   |       [Solution](/Python/Introduction/arithmetic_operators.py)       |
+|   Introduction   |        Python: Division         |           [Problem](https://www.hackerrank.com/challenges/python-division/problem)            |    Easy    |  10   |         [Solution](/Python/Introduction/python_division.py)          |
+|   Introduction   |              Loops              |             [Problem](https://www.hackerrank.com/challenges/python-loops/problem)             |    Easy    |  10   |              [Solution](/Python/Introduction/loops.py)               |
+|   Introduction   |        Write a function         |           [Problem](https://www.hackerrank.com/challenges/write-a-function/problem)           |   Medium   |  10   |         [Solution](/Python/Introduction/write_a_function.py)         |
+|   Introduction   |         Print Function          |             [Problem](https://www.hackerrank.com/challenges/python-print/problem)             |    Easy    |  20   |          [Solution](/Python/Introduction/print_function.py)          |
+| Basic Data Types |       List Comprehensions       |         [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem)          |    Easy    |  10   |   [Solution](/Python/Basic%20Data%20Types/list_comprehensions.py)    |
+| Basic Data Types |    Find the Runner-Up Score!    | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) |    Easy    |  10   | [Solution](/Python/Basic%20Data%20Types/find_the_runner_up_score.py) |
