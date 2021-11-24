@@ -1,3 +1,5 @@
+# Language: Python 3
+
 n = int(input())
 
 if (n % 2 != 0):
