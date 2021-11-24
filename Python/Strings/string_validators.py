@@ -1,3 +1,5 @@
+# Language: Python 3
+
 if __name__ == '__main__':
     s = input()
     n = any(i.isalnum() for i in s)

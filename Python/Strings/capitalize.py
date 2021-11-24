@@ -1,3 +1,5 @@
+# Language: Python 3
+
 def solve(s):
     a = s[:].split()
     for i in a:

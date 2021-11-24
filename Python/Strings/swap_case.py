@@ -1,3 +1,5 @@
+# Language: Python 3
+
 def swap_case(s):
     s = s.swapcase()
     return s
