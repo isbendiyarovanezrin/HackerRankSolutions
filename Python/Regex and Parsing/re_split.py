@@ -1,3 +1,5 @@
+# Language: Python 3
+
 regex_pattern = r"[, .]"
 
 import re
