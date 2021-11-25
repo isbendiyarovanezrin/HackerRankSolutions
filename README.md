@@ -1,11 +1,12 @@
 <div align="center">
+  <a href="https://www.hackerrank.com/dashboard">
+     <img width="200" title="Click me!" alt="HackerRank Logo" src="https://user-images.githubusercontent.com/86655646/143421240-b96814f2-ba80-4232-9d24-2fc6157ed89d.png">
+  </a>
   
   ### [Personal HackerRank Profile](https://www.hackerrank.com/isbndyrva "Click me!")
-  <br>
-  <a href="https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python">
-      <img width="120" title="Click me!" alt="Python Logo" src="https://user-images.githubusercontent.com/86655646/142765019-f3ba201c-26b4-4cf6-a186-08da6097700f.png">
-  </a>
 <div>
+  
+### <p align="center">[Python](https://www.hackerrank.com/domains/python "Click me!")</p>
 
 |     Subdomain     |            Challenge            |                                            Problem                                            | Difficulty | Score |                               Solution                               |
 | :---------------: | :-----------------------------: | :-------------------------------------------------------------------------------------------: | :--------: | :---: | :------------------------------------------------------------------: |
@@ -28,3 +29,18 @@
 |       Math        |        Power - Mod Power        |        [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem)        |    Easy    |  10   |             [Solution](/Python/Math/power_mod_power.py)              |
 |       Math        |   Integers Come In All Sizes    |  [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)   |    Easy    |  10   |        [Solution](/Python/Math/integers_come_in_all_sizes.py)        |
 | Regex and Parsing |           Re.split()            |               [Problem](https://www.hackerrank.com/challenges/re-split/problem)               |    Easy    |  20   |        [Solution](/Python/Regex%20and%20Parsing/re_split.py)         |
+
+<br>
+    
+### <p align="center">[SQL](https://www.hackerrank.com/domains/sql "Click me!")</p>
+  
+ |   Subdomain  |           Challenge           |                                         Problem                                        | Difficulty | Score |                             Solution                             |
+|:------------:|:-----------------------------:|:--------------------------------------------------------------------------------------:|:----------:|:-----:|:----------------------------------------------------------------:|
+| Basic Select |  Revising the Select Query I  |   [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem)   |    Easy    |   10  |  [Solution](/SQL/Basic%20Select/revising_the_select_query1.sql) |
+| Basic Select |  Revising the Select Query II |  [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)  |    Easy    |   10  |  [Solution](/SQL/Basic%20Select/revising_the_select_query2.sql)  |
+| Basic Select |           Select All          |         [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem)        |    Easy    |   10  |          [Solution](/SQL/Basic%20Select/select_all.sql)          |
+| Basic Select |          Select By ID         |          [Problem](https://www.hackerrank.com/challenges/select-by-id/problem)         |    Easy    |   10  |         [Solution](/SQL/Basic%20Select/select_by_id.sql)         |
+| Basic Select |  Japanese Cities' Attributes  |   [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)  |    Easy    |   10  |  [Solution](/SQL/Basic%20Select/japanese_cities_attributes.sql)  |
+| Basic Select |     Japanese Cities' Names    |      [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem)     |    Easy    |   10  |     [Solution](/SQL/Basic%20Select/japanese_cities_names.sql)    |
+| Basic Select | Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) |    Easy    |   15  | [Solution](/SQL/Basic%20Select/weather_observation_station1.sql) |
+| Basic Select | Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) |    Easy    |   10  | [Solution](/SQL/Basic%20Select/weather_observation_station3.sql) |
