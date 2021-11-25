@@ -31,6 +31,20 @@
 | Regex and Parsing |           Re.split()            |               [Problem](https://www.hackerrank.com/challenges/re-split/problem)               |    Easy    |  20   |        [Solution](/Python/Regex%20and%20Parsing/re_split.py)         |
 
 <br>
+  
+### <p align="center">[Algorithms](https://www.hackerrank.com/domains/algorithms "Click me!")</p>
+  
+| Subdomain |       Challenge       |                                     Problem                                    | Difficulty | Score |                                              Solution                                             |
+|:---------:|:---------------------:|:------------------------------------------------------------------------------:|:----------:|:-----:|:-------------------------------------------------------------------------------------------------:|
+|   Warmup  |     Solve Me First    |     [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)    |    Easy    |   1   | [Solution 1](/Algorithms/Warmup/solve_me_first.py) [and 2](/Algorithms/Warmup/solve_me_first.js) |
+|   Warmup  |    Simple Array Sum   |    [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)   |    Easy    |   10  |                         [Solution](/Algorithms/Warmup/simple_array_sum.js)                        |
+|   Warmup  |  Compare the Triplets |  [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |    Easy    |   10  |                       [Solution](/Algorithms/Warmup/compare_the_triplets.py)                      |
+|   Warmup  |     A Very Big Sum    |     [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)    |    Easy    |   10  |  [Solution 1](/Algorithms/Warmup/a_very_big_sum.py) [and 2](/Algorithms/Warmup/a_very_big_sum.js) |
+|   Warmup  |       Plus Minus      |       [Problem](https://www.hackerrank.com/challenges/plus-minus/problem)      |    Easy    |   10  |      [Solution 1](/Algorithms/Warmup/plus_minus.js) [and 2](/Algorithms/Warmup/plus_minus.py)     |
+|   Warmup  |      Mini-Max Sum     |      [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem)     |    Easy    |   10  |                           [Solution](/Algorithms/Warmup/mini_max_sum.py)                          |
+|   Warmup  | Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) |    Easy    |   10  |                      [Solution](/Algorithms/Warmup/birthday_cake_candles.py)                      |
+  
+<br>
     
 ### <p align="center">[SQL](https://www.hackerrank.com/domains/sql "Click me!")</p>
   
