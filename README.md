@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://www.hackerrank.com/dashboard">
-     <img width="200" title="Click me!" alt="HackerRank Logo" src="https://user-images.githubusercontent.com/86655646/143421240-b96814f2-ba80-4232-9d24-2fc6157ed89d.png">
+     <img width="200" title="Click me!🙂" alt="HackerRank Logo" src="https://user-images.githubusercontent.com/86655646/143421240-b96814f2-ba80-4232-9d24-2fc6157ed89d.png">
   </a>
   
-  ### [Personal HackerRank Profile](https://www.hackerrank.com/isbndyrva "Click me!")
+  ### [Personal HackerRank Profile](https://www.hackerrank.com/isbndyrva "Click me!🙂")
 <div>
   
-### <p align="center">[Python](https://www.hackerrank.com/domains/python "Click me!")</p>
+### <p align="center">[Python](https://www.hackerrank.com/domains/python "Click me!🙂")</p>
 
 |     Subdomain     |            Challenge            |                                            Problem                                            | Difficulty | Score |                               Solution                               |
 | :---------------: | :-----------------------------: | :-------------------------------------------------------------------------------------------: | :--------: | :---: | :------------------------------------------------------------------: |
@@ -32,7 +32,7 @@
 
 <br>
   
-### <p align="center">[Algorithms](https://www.hackerrank.com/domains/algorithms "Click me!")</p>
+### <p align="center">[Algorithms](https://www.hackerrank.com/domains/algorithms "Click me!🙂")</p>
   
 | Subdomain |       Challenge       |                                     Problem                                    | Difficulty | Score |                                              Solution                                             |
 |:---------:|:---------------------:|:------------------------------------------------------------------------------:|:----------:|:-----:|:-------------------------------------------------------------------------------------------------:|
@@ -46,7 +46,7 @@
   
 <br>
     
-### <p align="center">[SQL](https://www.hackerrank.com/domains/sql "Click me!")</p>
+### <p align="center">[SQL](https://www.hackerrank.com/domains/sql "Click me!🙂")</p>
   
  |   Subdomain  |           Challenge           |                                         Problem                                        | Difficulty | Score |                             Solution                             |
 |:------------:|:-----------------------------:|:--------------------------------------------------------------------------------------:|:----------:|:-----:|:----------------------------------------------------------------:|
